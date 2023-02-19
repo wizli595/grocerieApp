@@ -1,5 +1,5 @@
 import copy
-from flask import Flask, render_template, url_for, request, redirect, session
+from flask import Flask, render_template, url_for, request, session
 import sqlite3
 import random
 
