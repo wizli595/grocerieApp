@@ -1,0 +1,66 @@
+body {
+  font-family: "Raleway";
+  font-size: 1.5em;
+}
+header {
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  background-color: #eee;
+  margin: 10px auto;
+  border-radius: 15px;
+}
+.logo img {
+  width: 70px;
+  margin: 5px;
+}
+.headdr {
+  text-align: center;
+  line-height: 67px;
+  text-transform: capitalize;
+  font-size: 24px;
+  font-weight: bolder;
+  font-family: Tahoma, sans-serif;
+}
+.remove {
+  display: flex;
+  justify-content: center;
+  width: 294px;
+  background: #eee;
+  margin: 10px auto;
+  border-radius: 15px;
+}
+.con {
+  text-align: center;
+  width: fit-content;
+}
+#rm {
+  margin: 7px;
+  width: 200px;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 15px;
+  font-weight: bold;
+  font-size: 15px;
+}
+.add {
+  display: flex;
+  justify-content: center;
+}
+#sel {
+  width: 190px;
+  text-align: center;
+  margin-right: 5px;
+  /* margin: 10px; */
+  height: 34px;
+}
+#sub {
+  margin: 7px;
+  width: 200px;
+  padding: 5px;
+  cursor: pointer;
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
+  font-weight: bold;
+  font-size: 15px;
+}
