@@ -1,6 +1,7 @@
 # grocerieApp
 take your grocerie list with you
-first try with flask
+
+#first try with flask
 
 
 for vs code
@@ -16,6 +17,8 @@ and create the Virtual Environment for it => virtualenv "name"
 enter it => name\Scripts\activate
 
 search for file app.py 
+
+pip install -r requirement.txt
 
 run it 
 
