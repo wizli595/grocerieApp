@@ -18,7 +18,7 @@ enter it => name\Scripts\activate
 
 search for file app.py 
 
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 run it 
 
